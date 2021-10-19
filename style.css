@@ -22,24 +22,24 @@
 
 #hours {
     height: 27%;
-    width: 1%;
-    top: 23%;
-    left: 49.3%;
+    width: 1.5%;
+    top: 22.5%;
+    left: 49.05%;
     opacity: 0.8;
 }
 
 #minutes {
-    height: 35%;
+    height: 31%;
     width: 1%;
-    top: 16%;
-    left: 49.3%;
+    top: 19%;
+    left: 49.2%;
     opacity: 0.8;
 }
 
 #seconds {
     height: 35%;
-    width: 1%;
-    top: 14%;
-    left: 49.3%;
+    width: .5%;
+    top: 15%;
+    left: 49%;
     opacity: 0.8;
 }
